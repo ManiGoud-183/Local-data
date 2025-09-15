@@ -1,0 +1,4 @@
+How to create Local repository?
+The command git init
+This command will be create .git file
+Now we can consider this folder as a repository
